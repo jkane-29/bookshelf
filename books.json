@@ -1,0 +1,352 @@
+{
+  "books": [
+    {
+      "title": "Vineland",
+      "author": "Thomas Pynchon",
+      "author_sort": "Pynchon, Thomas",
+      "description": "A sprawling novel set in 1984 California, blending noir, family drama, and political intrigue.",
+      "pages": 385,
+      "cover": "covers/Vineland.jpg",
+      "personal_comment": "Not as much pulp fiction as inherent vice, but much more readable."
+    },
+    {
+      "title": "Down and Out in Paris and London",
+      "author": "George Orwell",
+      "author_sort": "Orwell, George",
+      "description": "A memoir of poverty in two great cities, full of vivid characters and harsh realities.",
+      "pages": 213,
+      "cover": "covers/Down_and_Out_in_Paris_and_London.jpg",
+      "personal_comment": "Incredibly detailed, but also full of despair. Can't get the image of Monsignor X out of my head or the brasserie constantly short on pans.",
+      "summary": "'You have talked so often of going to the dogs \u2013 and well, here are the dogs, and you have reached them.' George Orwell's vivid memoir of his time among the desperately poor and destitute in London and Paris is a moving tour of the underworld of society. Here he painstakingly documents a world of unrelenting drudgery and squalor \u2013 sleeping in bug-infested hostels and doss houses, working as a dishwasher in the vile 'Hotel X', living alongside tramps, surviving on scraps and cigarette butts \u2013 in an unforgettable account of what being down and out is really like."
+    },
+    {
+      "title": "Against Everything",
+      "author": "Mark Greif",
+      "author_sort": "Greif, Mark",
+      "description": "Essays on culture and society from a critical perspective.",
+      "pages": 288,
+      "cover": "covers/Against_Everything.jpg",
+      "personal_comment": "This book made me overly cynical in a biting 2013 kind of way, nothing I can do about it now though."
+    },
+    {
+      "title": "Manias, Panics and Crashes",
+      "author": "Charles Kindleberger",
+      "author_sort": "Kindleberger, Charles",
+      "description": "Classic analysis of financial bubbles throughout history.",
+      "pages": 356,
+      "cover": "covers/Manias_Panics_and_Crashes.jpg",
+      "personal_comment": "Classic analysis of financial bubbles throughout history",
+      "summary": "\"Manias, Panics, and Crashes probes the most recent natural disasters of the markets - from Black Monday to the Japanese boom and bust, from the sterling crisis and peso devaluation to the explosion in today's technology stocks.\".\n\n\"Kindleberger's writing leads the reader through a myriad of financial free falls. From the currency devaluation in the Holy Roman Empire in 1618, through the California gold rush of the 1840s and '50s to the crash of 1987, all the way up to the present day, his sharply drawn history confronts a host of key questions: In the ups and downs of market behavior, where is the line between rational and irrational? Are the markets a fool's paradise in an explosive world?\n\nWhen the storm expands to dangerous proportions, who will calm the panic? Should a \"lender of last resort\" intervene to repair the wreckage?\" \"Manias, Panics, and Crashes can be regarded as a warning or a proposition, reminding readers, in many ways, that what goes around comes around. Like all true classics, Kindleberger's book remains timely - for better or for worse.\"--BOOK JACKET."
+    },
+    {
+      "title": "Liar's Poker",
+      "author": "Michael Lewis",
+      "author_sort": "Lewis, Michael",
+      "description": "An insider's account of the greed and excess of 1980s Wall Street.",
+      "pages": 249,
+      "cover": "covers/Liar's Poker.jpg",
+      "personal_comment": "A great example of a life to be avoided, written by someone who was able to do so.",
+      "summary": "Liar's Poker is a non-fiction, semi-autobiographical book by Michael Lewis describing the author's experiences as a bond salesman on Wall Street during the late 1980s. First published in 1989, it is considered one of the books that defined Wall Street during the 1980s.\r\n\r\nThis bestselling and hilarious book blew the doors off Wall Street's boardrooms and introduced the world to the writing of Michael Lewis. In this shrewd and wickedly funny book, Michael Lewis describes an astonishing era and his own rake's progress through a powerful investment bank. From an unlikely beginning (art history at Princeton?) he rose in two short years from Salomon Brothers trainee to Geek (the lowest form of life on the trading floor) to Big Swinging Dick, the most dangerous beast in the jungle, a bond salesman who could turn over millions of dollars' worth of doubtful bonds with just one call. With the eye and ear of a born storyteller, Michael Lewis shows us how things really worked on Wall Street. In the Salomon training program a roomful of aspirants is stunned speechless by the vitriolic profanity of the Human Piranha; out on the trading floor, bond traders throw telephones at the heads of underlings and Salomon chairman Gutfreund challenges his chief trader to a hand of liar's poker for one million dollars; around the world in London, Tokyo, and New York, bright young men like Michael Lewis, connected by telephones and computer terminals, swap gross jokes and find retail buyers for the staggering debt of individual companies or whole countries. The bond traders, wearing greed and ambition and badges of honor, might well have swaggered straight from the pages of Bonfire of the Vanities. But for all their outrageous behavior, they were in fact presiding over enormous changes in the world economy. Lewis's job, simply described, was to transfer money, in the form of bonds, from those outside America who saved to those inside America who consumed. In doing so, he generated tens of millions of dollars for Salomon Brothers, and earned for himself a ringside seat on the greatest financial spectacle of the decade: the leveraging of America. - Publisher."
+    },
+    {
+      "title": "Irrational Exuberance",
+      "author": "Robert Shiller",
+      "author_sort": "Shiller, Robert",
+      "description": "Nobel Prize-winning economist on market bubbles and investor psychology.",
+      "pages": 320,
+      "cover": "covers/Irrational_Exuberance.jpg",
+      "personal_comment": "Learned a lot about finance from Shiller's online classes",
+      "summary": "\"In this update of his 2000 bestseller, Irrational Exuberance, Robert Shiller returns to the topic that gained him international fame: market volatility. Shiller breaks new ground in this second edition by laying out in even clearer and starker terms the market excess that continue to destabilize the economy and disrupt our lives.\" \"Building on the original edition, Shiller draws out the psychological origins of volatility in financial markets, this time folding real estate into his analysis. He broadens the evidence that investing in capital markets of all kinds in the modern free market is inherently unstable - subject to the profoundly human influences captured in Alan Greenspan's now-famous phrase, \"irrational exuberance.\"\" \"The ultimate solution to this troubling condition, he maintains, would involve better-designed public institutions such as a revamped social security system, new forms of insurance to protect people's incomes and homes, and a broader array of investment options.\"--BOOK JACKET"
+    },
+    {
+      "title": "Zen Mind, Beginner's Mind",
+      "author": "Shunryu Suzuki",
+      "author_sort": "Suzuki, Shunryu",
+      "description": "Informal talks on Zen meditation and practice.",
+      "pages": 138,
+      "cover": "covers/Zen_Mind_Beginners_Mind.jpg",
+      "summary": "The Zen master introduces the newcomer to the practice, nature, and basic attitudes of Zen meditation."
+    },
+    {
+      "title": "The Ascent of Money",
+      "author": "Niall Ferguson",
+      "author_sort": "Ferguson, Niall",
+      "description": "A financial history of the world.",
+      "pages": 442,
+      "cover": "covers/The_Ascent_of_Money.jpg",
+      "summary": "Niall Ferguson follows the money to tell the human story behind the evolution of finance, from its origins in ancient Mesopotamia to the latest upheavals on what he calls Planet Finance.Bread, cash, dosh, dough, loot, lucre, moolah, readies, the wherewithal: Call it what you like, it matters. To Christians, love of it is the root of all evil. To generals, it's the sinews of war. To revolutionaries, it's the chains of labor. But in The Ascent of Money, Niall Ferguson shows that finance is in fact the foundation of human progress. What's more, he reveals financial history as the essential backstory behind all history.Through Ferguson's expert lens familiar historical landmarks appear in a new and sharper financial focus. Suddenly, the civilization of the Renaissance looks very different: a boom in the market for art and architecture made possible when Italian bankers adopted Arabic mathematics. The rise of the Dutch republic is reinterpreted as the triumph of the world's first modern bond market over insolvent Habsburg absolutism. And the origins of the French Revolution are traced back to a stock market bubble caused by a convicted Scot murderer.With the clarity and verve for which he is known, Ferguson elucidates key financial institutions and concepts by showing where they came from. What is money? What do banks do? What's the difference between a stock and a bond? Why buy insurance or real estate? And what exactly does a hedge fund do?This is history for the present. Ferguson travels to post-Katrina New Orleans to ask why the free market can't provide adequate protection against catastrophe. He delves into the origins of the subprime mortgage crisis.Perhaps most important, The Ascent of Money documents how a new financial revolution is propelling the world's biggest countries, India and China, from poverty to wealth in the space of a single generation\u2014an economic transformation unprecedented in human history.Yet the central lesson of the financial history is that sooner or later every bubble bursts\u2014sooner or later the bearish sellers outnumber the bullish buyers, sooner or later greed flips into fear. And that's why, whether you're scraping by or rolling in it, there's never been a better time to understand the ascent of money."
+    },
+    {
+      "title": "The Essential Keynes",
+      "author": "John Maynard Keynes",
+      "author_sort": "Keynes, John Maynard",
+      "description": "Essential writings of the most influential economist of the 20th century.",
+      "pages": 432,
+      "cover": "covers/The_Essential_Keynes.jpg",
+      "personal_comment": "Go back to this a lot, Keynes is often quite funny."
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "author_sort": "Kahneman, Daniel",
+      "description": "A groundbreaking tour through the mind and explains the two systems that drive the way we think.",
+      "pages": 499,
+      "cover": "covers/Thinking_Fast_and_Slow.jpg",
+      "back_cover": "",
+      "personal_comment": "Read this towards the end of college, can really throw your priors upside down.",
+      "summary": "In his mega bestseller, Thinking, Fast and Slow, Daniel Kahneman, world-famous psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think.\r\n\r\nSystem 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. The impact of overconfidence on corporate strategies, the difficulties of predicting what will make us happy in the future, the profound effect of cognitive biases on everything from playing the stock market to planning our next vacation\u2015each of these can be understood only by knowing how the two systems shape our judgments and decisions.\r\n\r\nEngaging the reader in a lively conversation about how we think, Kahneman reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives\u2015and how we can use different techniques to guard against the mental glitches that often get us into trouble. Topping bestseller lists for almost ten years, Thinking, Fast and Slow is a contemporary classic, an essential book that has changed the lives of millions of readers."
+    },
+    {
+      "title": "The Power Broker",
+      "author": "Robert Caro",
+      "author_sort": "Caro, Robert",
+      "description": "The Pulitzer Prize-winning biography of Robert Moses and the fall of New York.",
+      "pages": 1336,
+      "cover": "covers/The_Power_Broker.jpg",
+      "personal_comment": "An incredible study into how someone was able to get an immense amount done.",
+      "summary": "Discusses the illusion that is a democracy by pointing out what real power looks like and where it comes from."
+    },
+    {
+      "title": "Stubborn Attachments",
+      "author": "Tyler Cowen",
+      "author_sort": "Cowen, Tyler",
+      "description": "A vision for a society of prosperity, stability, and long-term thinking.",
+      "pages": 152,
+      "cover": "covers/Stubborn_Attachments.jpg"
+    },
+    {
+      "title": "Walden and Other Writings",
+      "author": "Henry David Thoreau",
+      "author_sort": "Thoreau, Henry David",
+      "description": "Reflections on simple living in natural surroundings.",
+      "pages": 624,
+      "cover": "covers/Walden_and_Other_Writings.jpg"
+    },
+    {
+      "title": "Poor Charlie's Almanack",
+      "author": "Charlie Munger",
+      "author_sort": "Munger, Charlie",
+      "description": "The wit and wisdom of Charles T. Munger.",
+      "pages": 548,
+      "cover": "covers/Poor_Charlies_Almanack.jpg",
+      "personal_comment": "Full of good conventional wisdom. Ex. invert, always invert (think about the worst case and how it can be avoided)."
+    },
+    {
+      "title": "An Economist Gets Lunch",
+      "author": "Tyler Cowen",
+      "author_sort": "Cowen, Tyler",
+      "description": "New rules for everyday foodies.",
+      "pages": 293,
+      "cover": "covers/An_Economist_Gets_Lunch.jpg",
+      "personal_comment": "Gave me some weird skills in diving business models of restaurants.",
+      "summary": "Tyler Cowen discusses everything from slow food to fast food, from agriculture to gourmet culture, from modernist cuisine to how to pick the best street vendor, and shows how to get good, cheap eats just about anywhere."
+    },
+    {
+      "title": "Misbehaving",
+      "author": "Richard Thaler",
+      "author_sort": "Thaler, Richard",
+      "description": "The making of behavioral economics.",
+      "pages": 415,
+      "cover": "covers/Misbehaving.jpg"
+    },
+    {
+      "title": "Am I Being Too Subtle?",
+      "author": "Sam Zell",
+      "author_sort": "Zell, Sam",
+      "description": "Straight talk from a business rebel.",
+      "pages": 288,
+      "cover": "covers/Am_I_Being_Too_Subtle.jpg",
+      "personal_comment": "Incredibly readable biography, the fact that much of what Zell did seems conventional today proves how much he was pushing.",
+      "summary": "\"The traits that make Sam Zell one of the world's most successful entrepreneurs also make him one of the most surprising, enigmatic, and entertaining mavericks in American business. Self-made billionaire Sam Zell consistently sees what others don't. From finding a market for overpriced Playboy magazines among his junior high classmates, to buying real estate on the cheap after a market crash, to investing in often unglamorous industries with long-term value, Zell acts boldly on supply and demand trends to grab the first-mover advantage. And he can find opportunity virtually anywhere--from an arcane piece of legislation to a desert meeting in Abu Dhabi. \"If everyone is going left, look right,\" Zell often says. To him, conventional wisdom is nothing but a reference point. Year after year, deal after deal, he shuts out the noise of the crowd, gathers as much information as possible, then trusts his own instincts. He credits much of his independent thinking to his parents, who were Jewish refugees from World War II. Talk to any two people and you might get wild swings in their descriptions of Zell. A media firestorm ensued when the Tribune Company went into bankruptcy a year after he agreed to steward the enterprise. At the same time, his razor-sharp instincts are legendary on Wall Street, and he has sponsored over a dozen IPOs. He's known as the Grave Dancer for his strategy of targeting troubled assets, yet he's created thousands of jobs. Within his own organization, he has an inordinate number of employees at every level who are fiercely loyal and have worked for him for decades. Zell's got a big personality; he is often contrarian, blunt, and irreverent, and always curious and hardworking. This is the guy who started wearing jeans to work in the 1960s, when offices were a sea of gray suits. He's the guy who told The Wall Street Journal in 1985, \"If it ain't fun, we don't do it.\" He rides motorcycles with his friends, the Zell's Angels, around the world and he keeps ducks on the deck outside his office. As he writes: \"I simply don't buy into many of the made-up rules of social convention. The bottom line is: If you're really good at what you do, you have the freedom to be who you really are.\" Am I Being Too Subtle?--a reference to Zell's favorite way to underscore a point--takes readers on a ride across his business terrain, sharing with honesty and humor stories of the times he got it right, when he didn't, and most important, what he learned in the process. This is an indispensable guide for the next generation of disrupters, entrepreneurs, and investors\"--"
+    },
+    {
+      "title": "Barbarians at the Gate",
+      "author": "Bryan Burrough",
+      "author_sort": "Burrough, Bryan",
+      "description": "The fall of RJR Nabisco - the definitive account of the most famous takeover ever.",
+      "pages": 528,
+      "cover": "covers/Barbarians at the Gate.jpg",
+      "personal_comment": "Every bankers favorite bedtime story",
+      "summary": "Over six months on the New York Times bestseller list, Barbarians at the Gate is the definitive account of the largest takeover in Wall Street history. Bryan Burrough and John Helyar's gripping record of the frenzy that overtook Wall Street in October and November of 1988 is the story of deal makers and pulicity flaks, of strategy meetings and society dinners, of boardrooms and bedrooms, giving us not only an unprecedentedly detailed look at how financial operations at the highest levels are conducted but also a richly textured social history of wealth at the twilight of the Reagan era. As compelling as a novel, Barbarians at the Gate is must reading for everyone interested in the way today's world really works."
+    },
+    {
+      "title": "Barbarian Days",
+      "author": "William Finnegan",
+      "author_sort": "Finnegan, William",
+      "description": "A surfing life - Pulitzer Prize winner.",
+      "pages": 447,
+      "cover": "covers/Barbarian_Days.jpg",
+      "personal_comment": "Definitely my favorite book at the time of reading. Finnegan's audacity for life and experience made me much more optimistic about my future."
+    },
+    {
+      "title": "Boomerang",
+      "author": "Michael Lewis",
+      "author_sort": "Lewis, Michael",
+      "description": "Travels in the new third world.",
+      "pages": 213,
+      "cover": "covers/Boomerang.jpg",
+      "personal_comment": "Remember some bizarre sections from this book about Italian monks? Incredibly entertaining.",
+      "summary": "As Pogo once said, \"We have met the enemy and he is us.\" The tsunami of cheap credit that rolled across the planet between 2002 and 2008 was more than a simple financial phenomenon: it was temptation, offering entire societies the chance to reveal aspects of their characters they could not normally afford to indulge. Icelanders wanted to stop fishing and become investment bankers. The Greeks wanted to turn their country into a pi\u00f1ata stuffed with cash and allow as many citizens as possible to take a whack at it. The Germans wanted to be even more German; the Irish wanted to stop being Irish. Michael Lewis's investigation of bubbles beyond our shores is so brilliantly, sadly hilarious that it leads the American reader to a comfortable complacency: oh, those foolish foreigners. But when he turns a merciless eye on California and Washington, DC, we see that the narrative is a trap baited with humor, and we understand the reckoning that awaits the greatest and greediest of debtor nations. - Publisher."
+    },
+    {
+      "title": "Going Infinite",
+      "author": "Michael Lewis",
+      "author_sort": "Lewis, Michael",
+      "description": "The rise and fall of a new tycoon.",
+      "pages": 263,
+      "cover": "covers/Going Infinite.jpg",
+      "personal_comment": "Same above, still interested in the idea that he was not insolvent at time of arrest."
+    },
+    {
+      "title": "Keynes Hayek",
+      "author": "Nicholas Wapshott",
+      "author_sort": "Wapshott, Nicholas",
+      "description": "The clash that defined modern economics.",
+      "pages": 382,
+      "cover": "covers/Keynes_Hayek.jpg"
+    },
+    {
+      "title": "Burmese Days",
+      "author": "George Orwell",
+      "author_sort": "Orwell, George",
+      "description": "A novel about the waning days of British imperialism in Burma.",
+      "pages": 287,
+      "cover": "covers/Burmese Days.jpg",
+      "summary": "Burmese Days is set in 1920s imperial Burma, in the fictional district of Kyauktada. The story involves U Po Kyin, a corrupt Burmese magistrate, who works to destroy the reputation of the Indian Dr. Veraswami, so he (Kyin) can be admitted to the European Club instead of the more likely Dr. Veraswami. The Doctor's main protection is his friendship with John Flory who, as a pukka sahib (European white man), has higher prestige. U Po Kyin, however, succeeds and is admitted to the club. Racism and classism undergird the actions of the major characters. Kyin plans to redeem his life and cleanse his sins by financing pagodas. He dies of apoplexy before he can even start on building the first pagoda and his wife envisages him returning to life as a frog or rat. --modified slightly from www.wikipedia.com."
+    },
+    {
+      "title": "Working",
+      "author": "Robert Caro",
+      "author_sort": "Caro, Robert",
+      "description": "Researching, interviewing, writing.",
+      "pages": 241,
+      "cover": "covers/Working.jpg",
+      "summary": "This is regarded as a seminal text of Epicurean science and philosophy. Epicurians discarded both the idea of immortality and the superstitious worship of wilful gods for a life of serene contentment in the available pleasures of nature. Lucretius (c100-c55BC), in elucidating this belief, steers the reader through an extraordinary breadth of subject matter, ranging from the indestructibility of atoms and the discovery of fire to the folly of romantic love and the phenomena of clouds and rainstorms."
+    },
+    {
+      "title": "Words Without Music",
+      "author": "Philip Glass",
+      "author_sort": "Glass, Philip",
+      "description": "A memoir by one of the most influential composers of our time.",
+      "pages": 465,
+      "cover": "covers/Words_Without_Music.jpg",
+      "summary": "Corr\u00eda el a\u00f1o 57 y la se\u00f1ora Glass estaba muy preocupada por el incierto futuro de su hijo, reci\u00e9n graduado en la Universidad de Chicago. Si te vas a Nueva York a estudiar m\u00fasica acabar\u00e1s como tu t\u00edo Henry , le dijo. Aquel Henry era un m\u00fasico itinerante que tocaba la bater\u00eda en teatros de variedades y salas de baile. Eso es lo que realmente quiero , contest\u00f3 el joven Philip. A la ma\u00f1ana siguiente tom\u00f3 el autob\u00fas que lo conducir\u00eda desde las calles de Baltimore hasta el sue\u00f1o de la creaci\u00f3n vagabunda. No fue, sin embargo, un camino de rosas: la \u00f3pera 'Einstein on the Beach' lo consagr\u00f3 en 1976 como uno de los m\u00e1s grandes compositores del planeta, pero durante las dos d\u00e9cadas anteriores se gan\u00f3 la vida arreglando tuber\u00edas o conduciendo taxis y camiones de mudanzas. Tambi\u00e9n vivi\u00f3 en Par\u00eds y recorri\u00f3 la India, un viaje inici\u00e1tico que le dej\u00f3 una huella indeleble. Philip Glass es una figura central en la cultura contempor\u00e1nea. Sus sinfon\u00edas, \u00f3peras, bandas sonoras y piezas de c\u00e1mara han entrado por derecho propio en la partitura de nuestro tiempo. Sus rupturas, sus audacias, son ya insoslayables. En este libro, sin embargo, Glass tambi\u00e9n se descubre como un cronista agudo y minucioso, como un narrador nato que con pocos trazos logra dibujar an\u00e9cdotas, atm\u00f3sferas y personajes (entre ellos, Allen Ginsberg, Ravi Shankar, Doris Lessing, Richard Serra,Leonard Cohen o Martin Scorsese). No ser\u00e1 f\u00e1cil igualar su recreaci\u00f3n de la bohemia neoyorquina durante la segunda mitad del siglo XX. 'Palabras sin m\u00fasica' no es la ex\u00e9gesis de una obra, sino el espejo de una vida apasionante. Es, adem\u00e1s, un canto al poder del arte para transformar el mundo.\n\nSummary from English edition:  A world-renowned composer of symphonies, operas, and film scores, Glass has, almost single-handedly, crafted the dominant sound of late-twentieth-century classical music. Here his behind-the-scenes recollections allow readers to experience those moments of creative fusion when life so magically merged with art. From his childhood in post-World War II Baltimore to his student days in Chicago, at Juilliard, and his first journey to Paris, where he studied under the formidable Nadia Boulanger, Glass movingly recalls his early mentors, while reconstructing the places that helped shape his artistic consciousness."
+    },
+    {
+      "title": "Benjamin Franklin",
+      "author": "Walter Isaacson",
+      "author_sort": "Isaacson, Walter",
+      "description": "An American life.",
+      "pages": 608,
+      "cover": "covers/Benjamin Franklin.jpg"
+    },
+    {
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "author_sort": "Isaacson, Walter",
+      "description": "The exclusive biography.",
+      "pages": 656,
+      "cover": "covers/Steve_Jobs.jpg"
+    },
+    {
+      "title": "The Fran Lebowitz Reader",
+      "author": "Fran Lebowitz",
+      "author_sort": "Lebowitz, Fran",
+      "description": "Metropolitan Life and Social Studies.",
+      "pages": 336,
+      "cover": "covers/The_Fran_Lebowitz_Reader.jpg"
+    },
+    {
+      "title": "What I Talk About When I Talk About Running",
+      "author": "Haruki Murakami",
+      "author_sort": "Murakami, Haruki",
+      "description": "A memoir about running and writing.",
+      "pages": 180,
+      "cover": "covers/What I Talk About When I Talk Abotu Running.jpg",
+      "summary": "In 1982, having sold his jazz bar to devote himself to writing, Murakami began running to keep fit. A year later, he'd completed a solo course from Athens to Marathon, and now, after dozens of such races, not to mention triathlons and a dozen critically acclaimed books, he reflects upon the influence the sport has had on his life and--even more important--on his writing.Equal parts training log, travelogue, and reminiscence, this revealing memoir covers his four-month preparation for the 2005 New York City Marathon and takes us to places ranging from Tokyo's Jingu Gaien gardens, where he once shared the course with an Olympian, to the Charles River in Boston among young women who outpace him. Through this marvelous lens of sport emerges a panorama of memories and insights: the eureka moment when he decided to become a writer, his greatest triumphs and disappointments, his passion for vintage LPs, and the experience, after fifty, of seeing his race times improve and then fall back.By turns funny and sobering, playful and philosophical, What I Talk About When I Talk About Running is rich and revelatory, both for fans of this masterful yet guardedly private writer and for the exploding population of athletes who find similar satisfaction in running.From the Hardcover edition."
+    },
+    {
+      "title": "High-Risers",
+      "author": "Ben Austen",
+      "author_sort": "Austen, Ben",
+      "description": "Cabrini-Green and the fate of American public housing.",
+      "pages": 368,
+      "cover": "covers/High_Risers.jpg"
+    },
+    {
+      "title": "Against the Gods",
+      "author": "Peter Bernstein",
+      "author_sort": "Bernstein, Peter",
+      "description": "The remarkable story of risk.",
+      "pages": 383,
+      "cover": "covers/Against_the_Gods.jpg",
+      "summary": "History of Probability, Statistics and Risk Management presented in a clear and comprehensible way."
+    },
+    {
+      "title": "Fear and Loathing on the Campaign Trail '72",
+      "author": "Hunter S. Thompson",
+      "author_sort": "Thompson, Hunter S.",
+      "description": "Gonzo journalism at its finest.",
+      "pages": 506,
+      "cover": "covers/Fear_and_Loathing_on_the_Campaign_Trail.jpg"
+    },
+    {
+      "title": "Zen and the Art of Motorcycle Maintenance",
+      "author": "Robert Pirsig",
+      "author_sort": "Pirsig, Robert",
+      "description": "An inquiry into values.",
+      "pages": 540,
+      "cover": "covers/Zen_and_the_Art_of_Motorcycle_Maintenance.jpg"
+    },
+    {
+      "title": "The Art of Doing Science and Engineering",
+      "author": "Richard Hamming",
+      "author_sort": "Hamming, Richard",
+      "description": "Learning to learn.",
+      "pages": 432,
+      "cover": "covers/The_Art_of_Doing_Science_and_Engineering.jpg"
+    },
+    {
+      "title": "A Peace to End All Peace",
+      "author": "David Fromkin",
+      "author_sort": "Fromkin, David",
+      "description": "The fall of the Ottoman Empire and the creation of the modern Middle East.",
+      "pages": 635,
+      "cover": "covers/A Peace to End All Peace.jpg",
+      "summary": "Traces Great Britain's influence on Middle East politics since World War I, and describes Britain's changing interests in the region."
+    },
+    {
+      "title": "Do Androids Dream of Electric Sheep?",
+      "author": "Philip K. Dick",
+      "author_sort": "Dick, Philip K.",
+      "description": "The novel that inspired Blade Runner.",
+      "pages": 210,
+      "cover": "covers/Do_Androids_Dream_of_Electric_Sheep.jpg",
+      "summary": "It was January 2021, and Rick Deckard had a license to kill.\r\nSomewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then...\"retire\" them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!"
+    },
+    {
+      "title": "Cherry",
+      "author": "Nico Walker",
+      "author_sort": "Walker, Nico",
+      "description": "A novel about addiction and America.",
+      "pages": 322,
+      "cover": "covers/Cherry.jpg"
+    },
+    {
+      "title": "Silence",
+      "author": "Shusaku Endo",
+      "author_sort": "Endo, Shusaku",
+      "description": "A historical novel about Christian missionaries in 17th-century Japan.",
+      "pages": 294,
+      "cover": "covers/Silence.jpg"
+    },
+    {
+      "title": "Homage to Catalonia",
+      "author": "George Orwell",
+      "author_sort": "Orwell, George",
+      "description": "Orwell's account of the Spanish Civil War.",
+      "pages": 249,
+      "cover": "covers/Homage_to_Catalonia.jpg"
+    }
+  ]
+}
